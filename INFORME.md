@@ -57,11 +57,16 @@ ahí tres decisiones que atraviesan todo el producto:
 
 ### Reparto del trabajo
 
-Para este proyecto nos organizamos de manera muy colaborativa. Yo me encargué de redactar la
-introducción y la sección de arquitectura en el informe, además de revisar y probar el código de las
-pantallas principales de la app. Tomamos en conjunto las decisiones clave sobre la estructura y las
-tecnologías a usar, mientras que el desarrollo de componentes específicos lo dividimos por separado
-para avanzar más rápido.
+El trabajo se organizó en dos frentes que avanzaron en paralelo. Las decisiones que
+condicionaban la entrega las tomamos en conjunto: el framework, el router, la estrategia de
+persistencia, el tercer framework de la comparación y el criterio de ordenamiento del listado.
+
+Valeria Gómez se encargó de revisar y validar el informe, de contrastar que lo escrito
+coincidiera con lo que la aplicación hace, y de probar la aplicación frente a los criterios de
+aceptación definidos en BRIEF.md. Otton Lucena llevó la construcción del proyecto y la
+ejecución de las fases de desarrollo.
+
+Ambos revisamos el resultado final antes de la entrega.
 
 ---
 
