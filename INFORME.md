@@ -519,8 +519,9 @@ Ninguno de los tres es superior en abstracto; cada uno gana en un escenario dist
 
 Para AvistAves, la combinación de restricciones fue decisiva: un plazo inferior a cuarenta y ocho
 horas, un equipo que ya programa en JavaScript, la necesidad de cámara y GPS reales, y una
-demostración sobre emulador. React Native con Expo es el único de los tres que satisface las cuatro
-a la vez. Ionic habría penalizado justo los dos elementos que la pauta evalúa con más peso, y
+demostración que se desarrolló sobre emulador y se cerró en un dispositivo Android físico, como
+documentan las secciones 6.9 y 8.2. React Native con Expo es el único de los tres que satisface las
+cuatro a la vez. Ionic habría penalizado justo los dos elementos que la pauta evalúa con más peso, y
 Flutter habría consumido en aprendizaje el tiempo que hacía falta para construir.
 
 ---
